@@ -45,3 +45,10 @@ img {
     color: rgb(36, 136, 136);
     margin: 0 5px;
 }
+
+.wiki-link {
+    font-size: 16px;
+    color: rgb(232, 85, 22);
+    margin: 0 5px;
+
+}
